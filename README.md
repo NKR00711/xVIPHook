@@ -49,8 +49,6 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 **.......**
 
-**More apps are available in the module settings.**
-
 ---
 
 ## 🍋Compatible Versions
