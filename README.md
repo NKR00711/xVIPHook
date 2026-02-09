@@ -35,7 +35,7 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 ## ✨Telegram Group
 
-[https://t.me/FreeIDMZone](https://t.me/FreeIDMZoneC)
+[https://t.me/xVIPHook](https://t.me/xVIPHook)
 
 ---
 
@@ -43,8 +43,9 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 **Note: From left to right, the app names and their unlock descriptions**
 
-- Graph Messenger: Remove Ads
-- Truecaller: Local Gold Membership
+- Telegraph/Graph Messenger: Premium/Remove Ads
+- Truecaller: Gold Membership
+- Duolingo: Max Membership + 3x XP Boost
 
 **.......**
 
