@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/Y0CVDBLX/x-VIPHook.png" width="250" height="250" />
 
 # xVIPHook
-[![LSPosed](https://img.shields.io/badge/LSPosed-Module-red.svg)](https://github.com/Xposed-Modules-Repo/)
+[![LSPosed](https://img.shields.io/badge/LSPosed-Module-red.svg)](https://github.com/Xposed-Modules-Repo/io.github.nkr00711.xviphook)
 [![Github](https://img.shields.io/badge/Github-xVIPHook-black.svg)](https://github.com/NKR00711/xVIPHook)
 
 ✨**VIP Unlock Module for Apps**✨
