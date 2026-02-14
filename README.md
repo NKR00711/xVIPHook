@@ -49,6 +49,9 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Duolingo: Max Membership ~~+ 3x XP Boost~~
 - Thanox: VIP Membership
 - Android Faker: VIP Membership
+- Mantle: Local Pro Membership
+- Depth Wallpaper: Premium Membership
+- Folder Widget: Pro Membership
 
 **.......**
 
@@ -59,6 +62,8 @@ Maintaining the module is not easy; if possible, please consider donating.
 Here, I provide installation packages for compatible apps.
 
 - [Android Faker (1.9.2)](https://github.com/Android1500/AndroidFaker/releases/download/v1.9.2/app-release.apk)
+- [Depth Wallpapers & Live Clock](https://play.google.com/store/apps/details?id=com.jndapp.depth.live.wallpaper)
+- [Folder Widget - Large Folders](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 
 **All the latest versions of the app should work if the installation package is not provided above.**
 
