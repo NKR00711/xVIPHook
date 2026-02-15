@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/Y0CVDBLX/x-VIPHook.png" width="250" height="250" />
 
 # xVIPHook
-[![LSPosed](https://img.shields.io/badge/LSPosed-Module-red.svg)](https://github.com/Xposed-Modules-Repo/io.github.nkr00711.xviphook)
+[![LSPosed](https://img.shields.io/badge/LSPosed-Module-red.svg)](https://github.com/Xposed-Modules-Repo/)
 [![Github](https://img.shields.io/badge/Github-xVIPHook-black.svg)](https://github.com/NKR00711/xVIPHook)
 
 ✨**VIP Unlock Module for Apps**✨
@@ -35,25 +35,27 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 ## ✨Telegram Group
 
-[https://t.me/xVIPHook](https://t.me/xVIPHook)
+[https://t.me/FreeIDMZone](https://t.me/FreeIDMZoneC)
 
 ---
-
 
 ## 🎇Compatible Apps
 
 **Note: From left to right, the app names and their unlock descriptions**
 
-- Telegraph/Graph Messenger: Premium/Remove Ads
-- Truecaller: Gold Membership
-- Duolingo: Max Membership ~~+ 3x XP Boost~~
+- Graph Messenger: Remove Ads
+- Truecaller: Local Gold Membership
+- Duolingo: Max Membership
 - Thanox: VIP Membership
 - Android Faker: VIP Membership
 - Mantle: Local Pro Membership
 - Depth Wallpaper: Premium Membership
 - Folder Widget: Pro Membership
+- One4Wall: Pro Membership
 
 **.......**
+
+**More apps are available in the module.**
 
 ---
 
@@ -64,8 +66,9 @@ Here, I provide installation packages for compatible apps.
 - [Android Faker (1.9.2)](https://github.com/Android1500/AndroidFaker/releases/download/v1.9.2/app-release.apk)
 - [Depth Wallpapers & Live Clock](https://play.google.com/store/apps/details?id=com.jndapp.depth.live.wallpaper)
 - [Folder Widget - Large Folders](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
+- [One4Wall: 4K Wallpapers & Live](https://play.google.com/store/apps/details?id=one4studio.wallpaper.one4wall)
 
-**All the latest versions of the app should work if the installation package is not provided above.**
+**All the latest versions of the app may work if not use the provided version/any previous version which works.**
 
 ---
 
