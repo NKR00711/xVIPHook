@@ -43,15 +43,16 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 **Note: From left to right, the app names and their unlock descriptions**
 
-- Graph Messenger: Remove Ads
-- Truecaller: Local Gold Membership
-- Duolingo: Max Membership
-- Thanox: VIP Membership
+- Advanced Download Manager: Pro Membership
 - Android Faker: VIP Membership
-- Mantle: Local Pro Membership
+- Duolingo: Max Membership
 - Depth Wallpaper: Premium Membership
 - Folder Widget: Pro Membership
+- Graph Messenger: No Ads
+- Mantle: Local Pro Membership
 - One4Wall: Pro Membership
+- Thanox: VIP Membership
+- Truecaller: Local Gold Membership
 
 **.......**
 
