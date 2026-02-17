@@ -51,8 +51,10 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Graph Messenger: No Ads
 - Mantle: Local Pro Membership
 - One4Wall: Pro Membership
+- SD Maid 2/SE: Pro Membership
 - Thanox: VIP Membership
 - Truecaller: Local Gold Membership
+- Your Calendar Widget: Pro Membership
 
 **.......**
 
@@ -68,6 +70,8 @@ Here, I provide installation packages for compatible apps.
 - [Depth Wallpapers & Live Clock](https://play.google.com/store/apps/details?id=com.jndapp.depth.live.wallpaper)
 - [Folder Widget - Large Folders](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 - [One4Wall: 4K Wallpapers & Live](https://play.google.com/store/apps/details?id=one4studio.wallpaper.one4wall)
+- [SD Maid 2/SE - System Cleaner](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
+- [Your Calendar Widget](https://play.google.com/store/apps/details?id=de.mash.android.calendar)
 
 **All the latest versions of the app may work if not use the provided version/any previous version which works.**
 
