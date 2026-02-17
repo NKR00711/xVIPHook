@@ -50,8 +50,10 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Folder Widget: Pro Membership
 - Graph Messenger: No Ads
 - Mantle: Local Pro Membership
+- Motivation: Premium Membership
 - One4Wall: Pro Membership
 - SD Maid 2/SE: Pro Membership
+- Solid Explorer: Pro Membership
 - Thanox: VIP Membership
 - Truecaller: Local Gold Membership
 - Your Calendar Widget: Pro Membership
@@ -69,8 +71,10 @@ Here, I provide installation packages for compatible apps.
 - [Android Faker (1.9.2)](https://github.com/Android1500/AndroidFaker/releases/download/v1.9.2/app-release.apk)
 - [Depth Wallpapers & Live Clock](https://play.google.com/store/apps/details?id=com.jndapp.depth.live.wallpaper)
 - [Folder Widget - Large Folders](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
+- [Motivation - Daily quotes](https://play.google.com/store/apps/details?id=com.hrd.motivation)
 - [One4Wall: 4K Wallpapers & Live](https://play.google.com/store/apps/details?id=one4studio.wallpaper.one4wall)
 - [SD Maid 2/SE - System Cleaner](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
+- [Solid Explorer File Manager](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 - [Your Calendar Widget](https://play.google.com/store/apps/details?id=de.mash.android.calendar)
 
 **All the latest versions of the app may work if not use the provided version/any previous version which works.**
