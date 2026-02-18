@@ -48,10 +48,12 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Duolingo: Max Membership
 - Depth Wallpaper: Premium Membership
 - Folder Widget: Pro Membership
+- PhoneWalls: Pro Membership
 - Graph Messenger: No Ads
 - Mantle: Local Pro Membership
 - Motivation: Premium Membership
 - One4Wall: Pro Membership
+- SoundCloud: Fake Membership
 - SD Maid 2/SE: Pro Membership
 - Solid Explorer: Pro Membership
 - Thanox: VIP Membership
@@ -71,6 +73,7 @@ Here, I provide installation packages for compatible apps.
 - [Android Faker (1.9.2)](https://github.com/Android1500/AndroidFaker/releases/download/v1.9.2/app-release.apk)
 - [Depth Wallpapers & Live Clock](https://play.google.com/store/apps/details?id=com.jndapp.depth.live.wallpaper)
 - [Folder Widget - Large Folders](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
+- [4K Wallpapers - PhoneWalls](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers)
 - [Motivation - Daily quotes](https://play.google.com/store/apps/details?id=com.hrd.motivation)
 - [One4Wall: 4K Wallpapers & Live](https://play.google.com/store/apps/details?id=one4studio.wallpaper.one4wall)
 - [SD Maid 2/SE - System Cleaner](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
