@@ -59,6 +59,7 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Thanox: VIP Membership
 - Truecaller: Local Gold Membership
 - Your Calendar Widget: Pro Membership
+- Wibuku: MiniPlayer Unlocked
 
 **.......**
 
