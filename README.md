@@ -45,6 +45,7 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 - Advanced Download Manager: Pro Membership
 - Android Faker: VIP Membership
+- AllTrails: Pro Membership
 - Duolingo: Max Membership
 - Depth Wallpaper: Premium Membership
 - Folder Widget: Pro Membership
@@ -52,8 +53,10 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Graph Messenger: No Ads
 - Mantle: Local Pro Membership
 - Motivation: Premium Membership
+- Muviz Edge: Unlimited Access
 - One4Wall: Pro Membership
 - SoundCloud: Fake Membership
+- Remux: Pro Membership
 - SD Maid 2/SE: Pro Membership
 - Solid Explorer: Pro Membership
 - Thanox: VIP Membership
@@ -76,7 +79,9 @@ Here, I provide installation packages for compatible apps.
 - [Folder Widget - Large Folders](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 - [4K Wallpapers - PhoneWalls](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers)
 - [Motivation - Daily quotes](https://play.google.com/store/apps/details?id=com.hrd.motivation)
+- [Muviz Edge: AOD & Edge Lights](https://play.google.com/store/apps/details?id=com.sparkine.muvizedge)
 - [One4Wall: 4K Wallpapers & Live](https://play.google.com/store/apps/details?id=one4studio.wallpaper.one4wall)
+- [Video Converter - Remux](https://play.google.com/store/apps/details?id=app.remux.video.converter)
 - [SD Maid 2/SE - System Cleaner](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
 - [Solid Explorer File Manager](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 - [Your Calendar Widget](https://play.google.com/store/apps/details?id=de.mash.android.calendar)
