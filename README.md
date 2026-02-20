@@ -46,6 +46,8 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Advanced Download Manager: Pro Membership
 - Android Faker: VIP Membership
 - AllTrails: Pro Membership
+- Battery Guru: VIP Membership
+- Calendar Alarm Clock Reminder: Pro Membership
 - Duolingo: Max Membership
 - Depth Wallpaper: Premium Membership
 - Folder Widget: Pro Membership
@@ -75,6 +77,8 @@ Maintaining the module is not easy; if possible, please consider donating.
 Here, I provide installation packages for compatible apps.
 
 - [Android Faker (1.9.2)](https://github.com/Android1500/AndroidFaker/releases/download/v1.9.2/app-release.apk)
+- [Battery Guru: Battery Health](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)
+- [Calendar Alarm Clock Reminder](https://play.google.com/store/apps/details?id=com.app_by_LZ.calendar_alarm_clock)
 - [Depth Wallpapers & Live Clock](https://play.google.com/store/apps/details?id=com.jndapp.depth.live.wallpaper)
 - [Folder Widget - Large Folders](https://play.google.com/store/apps/details?id=pub.hanks.appfolderwidget)
 - [4K Wallpapers - PhoneWalls](https://play.google.com/store/apps/details?id=com.phonewalls.stockwallpapers)
