@@ -57,6 +57,7 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Mantle: Local Pro Membership
 - Motivation: Premium Membership
 - Muviz Edge: Unlimited Access
+- Mazii: Premium Membership
 - One4Wall: Pro Membership
 - SoundCloud: Fake Membership
 - Remux: Pro Membership
@@ -66,6 +67,7 @@ Maintaining the module is not easy; if possible, please consider donating.
 - Truecaller: Local Gold Membership
 - Your Calendar Widget: Pro Membership
 - Wibuku: MiniPlayer Unlocked
+- 3D Live Wallpapers: Premium Membership
 
 **.......**
 
@@ -91,6 +93,7 @@ Here, I provide installation packages for compatible apps.
 - [SD Maid 2/SE - System Cleaner](https://play.google.com/store/apps/details?id=eu.darken.sdmse)
 - [Solid Explorer File Manager](https://play.google.com/store/apps/details?id=pl.solidexplorer2)
 - [Your Calendar Widget](https://play.google.com/store/apps/details?id=de.mash.android.calendar)
+- [3D Live Wallpapers - 4K & 4D](https://play.google.com/store/apps/details?id=com.wallpaper3d.parallax4k.live4d)
 
 **All the latest versions of the app may work if not use the provided version/any previous version which works.**
 
