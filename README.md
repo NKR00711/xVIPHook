@@ -64,7 +64,6 @@ Maintaining the module is not easy; if possible, please consider donating.
 - SD Maid 2/SE: Pro Membership
 - Solid Explorer: Pro Membership
 - Super Backup: No Ads
-- Spotify: No Ads*
 - Thanox: VIP Membership
 - Truecaller: Local Gold Membership
 - Your Calendar Widget: Pro Membership
