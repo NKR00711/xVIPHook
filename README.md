@@ -35,7 +35,7 @@ Maintaining the module is not easy; if possible, please consider donating.
 
 ## ✨Telegram Group
 
-[https://t.me/FreeIDMZone](https://t.me/xVIPHook)
+[TG Channel](https://t.me/xVIPHook)
 
 ---
 
