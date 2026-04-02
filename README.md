@@ -25,21 +25,9 @@ Click [here](https://github.com/Xposed-Modules-Repo/io.github.nkr00711.xviphook/
 
 ---
 
-## ✨Donations
-
-Maintaining the module is not easy; if possible, please consider donating.
-
-[Ko-Fi](https://ko-fi.com/nkr007)
-
----
-
 ## ✨Telegram Group
 
 [TG Channel](https://t.me/xVIPHook)
-
----
-
-**All the latest versions of the app may work if not use the provided version/any previous version which works.**
 
 ---
 
