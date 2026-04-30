@@ -25,7 +25,7 @@ Click [here](https://github.com/Xposed-Modules-Repo/io.github.nkr00711.xviphook/
 ## ✨Donation
 Maintaining the module isn't easy, so please consider giving me a donation if you can.
 
-> https://www.patreon.com/DevEmperor
+> [https://www.patreon.com/DevEmperor](https://www.patreon.com/cw/DevEmperor/membership)
 
 ---
 
