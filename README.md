@@ -10,7 +10,7 @@
 </div>
 
 ## ✨Notice
-
+You can Join the Private Group to discuss about module [TGBot](https://t.me/xVIPHookBot)
 
 ---
 
