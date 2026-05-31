@@ -10,7 +10,7 @@
 </div>
 
 ## ✨Notice
-You can Join the Private Group to discuss about module [TGBot](https://t.me/xVIPHookBot)
+You can Join the Private Group to discuss about what does module support/do [TGBot](https://t.me/xVIPHookBot)
 
 ---
 
@@ -26,6 +26,7 @@ Click [here](https://github.com/Xposed-Modules-Repo/io.github.nkr00711.xviphook/
 Maintaining the module isn't easy, so please consider giving me a donation if you can.
 
 > [https://www.patreon.com/DevEmperor](https://www.patreon.com/cw/DevEmperor/membership)
+> 
 > If you want to donate using any other method you can DM [TGBot](https://t.me/xVIPHookBot)
 
 ---
