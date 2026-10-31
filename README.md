@@ -40,6 +40,12 @@ Maintaining the module isn't easy, so please consider giving me a donation if yo
 
 ## ⭐Star
 
-[![Stargazers over time](https://starchart.cc/NKR00711/xVIPHook.svg?variant=adaptive)](https://starchart.cc/NKR00711/xVIPHook)
+<a href="https://www.star-history.com/?repos=nkr00711%2Fxviphook&type=date&legend=top-left">
+ <picture>
+   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=nkr00711/xviphook&type=date&theme=dark&legend=top-left" />
+   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=nkr00711/xviphook&type=date&legend=top-left" />
+   <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=nkr00711/xviphook&type=date&legend=top-left" />
+ </picture>
+</a>
 
 ## 
